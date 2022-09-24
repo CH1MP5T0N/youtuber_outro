@@ -1,2 +1,2 @@
 # :skull: Youtube Outro 
-that can actually turn off your computer
+### Plays youtuber music and can actually turn off your computer
