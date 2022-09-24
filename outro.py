@@ -20,4 +20,4 @@ while (time.time() - start_time) < 19:
         print("SEE YOU GUYS")
 
 
-#os.system("shutdown /s /t 1")
+os.system("shutdown /s /t 1")
